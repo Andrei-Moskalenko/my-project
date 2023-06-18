@@ -1,3 +1,6 @@
 Fouth file text
 
-This file was modified in tne feature branch
+This file was modified in tne feature branch 
+
+need to create a seven folder and change the file "Seven-file.txt" with the same text
+    
