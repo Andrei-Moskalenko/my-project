@@ -1,0 +1,48 @@
+[33mcommit 2c5bc3e4ebd5b4027a9c930c713f57c4550e6363[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mdocker[m[33m)[m
+Author: Andrei <andrei.moskalenco@gmail.com>
+Date:   Sun Jun 18 19:39:58 2023 +0300
+
+    File changed at 18 june
+
+[33mcommit 54eeb58725d41dd201acc8f71bb4cd7e15911fe3[m
+Author: Andrei-Moskalenko <136259022+Andrei-Moskalenko@users.noreply.github.com>
+Date:   Sat Jun 17 19:28:45 2023 +0300
+
+    New file was created on github
+
+[33mcommit 8ed75e98c22d5b6356df856457ecd2d231d68415[m
+Merge: 315ee3b 674b5d1
+Author: Andrei <andrei.moskalenco@gmail.com>
+Date:   Sat Jun 17 18:20:08 2023 +0300
+
+    Merging new-feature into main
+
+[33mcommit 315ee3b1bd609a5368419ea45f0f95994227c8f6[m
+Author: Andrei <andrei.moskalenco@gmail.com>
+Date:   Sat Jun 17 18:16:06 2023 +0300
+
+    Changes made in the main branch
+
+[33mcommit 674b5d12c94b8654a8831be67b3a20af109f0e32[m
+Author: Andrei <andrei.moskalenco@gmail.com>
+Date:   Sat Jun 17 18:09:03 2023 +0300
+
+    modified fourth file in the feature branch
+
+[33mcommit 0f91ec9eb7888740bd8b1b6b2a53d83bc3fb27aa[m
+Author: Andrei <andrei.moskalenco@gmail.com>
+Date:   Sat Jun 17 18:04:57 2023 +0300
+
+    New file in the feature branch
+
+[33mcommit f6664b5b1cb02d5d7f3fc41cc1137edc240bc211[m
+Author: Andrei <andrei.moskalenco@gmail.com>
+Date:   Sat Jun 17 16:29:13 2023 +0300
+
+    Second commti
+
+[33mcommit def38e3b9386310bb4afbecf5b7c2d2a160c426d[m
+Author: Aleksandr Moskalenko <alexandr.moskalenko@jetruby.com>
+Date:   Sat Jun 17 14:43:38 2023 +0300
+
+    First commit
